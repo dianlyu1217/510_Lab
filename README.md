@@ -1,12 +1,14 @@
-# 510_Lab
+# TECHIN 510 Lab 1
+A personal website for TECHIN 510 Lab 1.
 
-## Overview
+# How to Run
+Open the terminal and run the following commands:
 
-
-## How to run
+python -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+streamlit run app.py
 
 ## Lesson Learned
 
 ## Questions
-
-git push origin main
